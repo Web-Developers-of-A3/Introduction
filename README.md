@@ -1,2 +1,3 @@
 # Introduction
-Welcome to the organization of web developers at A3! Learn to code on the web
+
+Welcome to the organization of web developers at A3! Learn to code on the web with HTML, CSS, and Javascript. You'll be able to create your own websites, blogs, online presentations, and games on the web. The great benefit of working on the web is that it's so easy to share what you've made. Having a website makes you look ultra professional, and it looks great on your resume. If you made a game and want to share it, all you have to send a link. And because you're creating it with code, you have much greater flexibility with what you create. In this class, you'll learn valuable skills in programming and web sharing, plus open source web collaborating on Github.
